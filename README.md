@@ -1,2 +1,7 @@
 # primer_repo
-primer repo
+
+**primer repo**
+
+```
+git clone
+```
